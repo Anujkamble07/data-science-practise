@@ -1,1 +1,1 @@
-# data-science-practise
+Course management app
